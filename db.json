@@ -1,0 +1,24 @@
+{
+  "products": [
+            {"id":1,"name":"Echidna, short-beaked","category":"Mauv"},
+            {"id":2,"name":"Cape fox","category":"Khaki"},
+            {"id":3,"name":"Indian porcupine","category":"Puce"},
+            {"id":4,"name":"Jackal, black-backed","category":"Red"},
+            {"id":5,"name":"Barbet, crested","category":"Crimson"},
+            {"id":6,"name":"Spurfowl, yellow-necked","category":"Khaki"},
+            {"id":7,"name":"Black spider monkey","category":"Blue"},
+            {"id":8,"name":"Dark-winged trumpeter","category":"Crimson"},
+            {"id":9,"name":"Ovenbird","category":"Teal"},
+            {"id":10,"name":"Spotted hyena","category":"Pink"},
+            {"id":11,"name":"Asian openbill","category":"Yellow"},
+            {"id":12,"name":"Warthog","category":"Puce"},
+            {"id":13,"name":"Long-billed cockatoo","category":"Turquoise"},
+            {"id":14,"name":"Red sheep","category":"Maroon"},
+            {"id":15,"name":"Great egret","category":"Khaki"},
+            {"id":16,"name":"Kinkajou","category":"Maroon"},
+            {"id":17,"name":"Sifaka, verreaux's","category":"Aquamarine"},
+            {"id":18,"name":"Swallow (unidentified)","category":"Purple"},
+            {"id":19,"name":"Weaver, sociable","category":"Pink"},
+            {"id":20,"name":"Possum, golden brush-tailed","category":"Green"}
+  ]
+}
